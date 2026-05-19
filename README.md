@@ -22,7 +22,7 @@ Una app hecha con SwiftUI donde los niños pueden conocer los 8 planetas del sis
 
 ## Para que sirve la app
 
-Esta app esta hecha para niños y jovenes que sienten curiosidad por el espacio y quieren aprender sobre los planetas del sistema solar de una forma clara y entretenida.
+Esta app esta hecha para niños que sienten curiosidad por el espacio y quieren aprender sobre los planetas del sistema solar de una forma clara y entretenida.
 
 A traves de la app pueden descubrir cuantas lunas tiene cada planeta, las temperaturas extremas que se registran en cada uno, su distancia al sol y datos curiosos que pocos conocen. Por ejemplo, en Marte existe un volcan tan grande que si se colocara en Peru cubriria casi todo el pais, y los vientos en Neptuno alcanzan velocidades tan altas que hacen imposible cualquier forma de vida en su superficie.
 
