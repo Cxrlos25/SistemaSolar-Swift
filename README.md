@@ -1,8 +1,7 @@
 # SistemaSolar — App iOS en Swift
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=Conoce+los+planetas+del+sistema+solar" alt="Typing SVG" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Conoce+los+planetas+del+sistema+solar" alt="Typing SVG" />
 
 ---
 
