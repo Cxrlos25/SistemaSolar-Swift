@@ -6,23 +6,23 @@
 
 ---
 
-Una app hecha con SwiftUI donde los ninos pueden conocer los 8 planetas del sistema solar de forma visual, sencilla y entretenida.
+Una app hecha con SwiftUI donde los niños pueden conocer los 8 planetas del sistema solar de forma visual, sencilla y entretenida.
 
 ---
 
-<img width="1470" height="956" alt="Perfil" src="https://github.com/user-attachments/assets/34a8e41e-1c47-4859-a27d-37b6be0a8a7c" />
 <img width="1470" height="956" alt="Home" src="https://github.com/user-attachments/assets/db0a5263-f16b-47ac-9339-801b5fde96bd" />
 <img width="1470" height="956" alt="Explorar" src="https://github.com/user-attachments/assets/9c50e7d6-d21b-4e08-90db-173e7b1b9b76" />
+<img width="1470" height="956" alt="Perfil" src="https://github.com/user-attachments/assets/34a8e41e-1c47-4859-a27d-37b6be0a8a7c" />
 
 ---
 
 ## Para que sirve la app
 
-Esta app esta hecha para ninos que sienten curiosidad por el espacio y quieren aprender sobre los planetas de una forma divertida y facil de entender.
+Esta app esta hecha para niños y jovenes que sienten curiosidad por el espacio y quieren aprender sobre los planetas del sistema solar de una forma clara y entretenida.
 
-Con la app puedes descubrir cuantas lunas tiene cada planeta, si hace mucho frio o mucho calor, que tan lejos esta del sol y datos curiosos que te van a sorprender. Por ejemplo, sabias que en Marte hay un volcan tan gigante que si lo pusieras en Peru cubriria casi todo el pais? O que los vientos en Neptuno son tan rapidos que ninguna persona podria sobrevivir ahi afuera?
+A traves de la app pueden descubrir cuantas lunas tiene cada planeta, las temperaturas extremas que se registran en cada uno, su distancia al sol y datos curiosos que pocos conocen. Por ejemplo, en Marte existe un volcan tan grande que si se colocara en Peru cubriria casi todo el pais, y los vientos en Neptuno alcanzan velocidades tan altas que hacen imposible cualquier forma de vida en su superficie.
 
-Todo esta explicado con palabras simples e imagenes para que cualquier nino pueda entenderlo sin ayuda.
+Toda la informacion esta presentada con lenguaje sencillo e imagenes para que los niños puedan explorar y aprender de forma independiente.
 
 ---
 
@@ -45,21 +45,13 @@ Todo esta explicado con palabras simples e imagenes para que cualquier nino pued
 
 ---
 
-## Estructura del proyecto
+## Como ejecutarlo
 
----
-
-## Como correrlo
-
-1. Clona el repo:
-
-```bash
-git clone https://github.com/Cxrlos25/SistemaSolar-Swift.git
-```
-
-2. Abre el .xcodeproj con Xcode
-3. Selecciona un simulador iPhone 15 o superior
-4. Dale play y listo
+1. Descarga el proyecto haciendo clic en el boton verde que dice Code y luego Download ZIP
+2. Descomprime el archivo y abre la carpeta
+3. Abre el archivo .xcodeproj con Xcode
+4. Selecciona un simulador iPhone 15 o superior
+5. Dale play y listo
 
 ---
 
