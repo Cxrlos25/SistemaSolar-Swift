@@ -9,14 +9,16 @@ Una app hecha con SwiftUI donde los niños pueden conocer los 8 planetas del sis
 
 ---
 
-<img width="1470" height="956" alt="Home" src="https<img width="1470" height="956" alt="Captura de pantalla 2026-05-28 a las 7 28 13 p  m" src="https://github.com/user-attachments/assets/2cb7670c-7d35-430e-a9df-a2135df93d35" />
-://github.com/user-attachments/assets/db0a5263-f16b-47ac-9339-801b5fde96bd" />
+<img width="1470" height="956" alt="Captura de pantalla 2026-05-28 a las 7 32 01 p  m" src="https://github.com/user-attachments/assets/b5afe90d-0de8-428b-a954-c8ab08efdf39" />
 
+<img width="1470" height="956" alt="Captura de pantalla 2026-05-28 a las 7 32 46 p  m" src="https://github.com/user-attachments/assets/89a04ff9-d6c1-4058-9823-5eae8e6e9202" />
 
 <img width="1470" height="956" alt="Captura de pantalla 2026-05-19 a las 3 44 13 p  m" src="https://github.com/user-attachments/assets/04d9b0c6-44cf-4cee-8b5c-daba4fe38408" />
 
 
-<img width="1470" height="956" alt="Perfil" src="https://github.com/user-attachments/assets/34a8e41e-1c47-4859-a27d-37b6be0a8a7c" />
+<img width="1470" height="956" alt="Captura de pantalla 2026-05-28 a las 7 33 25 p  m" src="https://github.com/user-attachments/assets/6fafc41b-3bd7-4206-b010-000610bc22e0" />
+
+<img width="1470" height="956" alt="Captura de pantalla 2026-05-28 a las 7 32 21 p  m" src="https://github.com/user-attachments/assets/f9de3913-4d3a-47a8-a0c8-dbd41ea66db7" />
 
 ---
 
