@@ -9,8 +9,9 @@ Una app hecha con SwiftUI donde los niños pueden conocer los 8 planetas del sis
 
 ---
 
-<img width="1470" height="956" alt="Home" src="https://github.com/user-attachments/assets/db0a5263-f16b-47ac-9339-801b5fde96bd" />
-<img width="1470" height="956" alt="Explorar" src="https://github.com/user-attachments/assets/9c50e7d6-d21b-4e08-90db-173e7b1b9b76" />
+<img width="1470" height="956" alt="Home" src="https<img width="1470" height="956" alt="Captura de pantalla 2026-05-28 a las 7 28 13 p  m" src="https://github.com/user-attachments/assets/2cb7670c-7d35-430e-a9df-a2135df93d35" />
+://github.com/user-attachments/assets/db0a5263-f16b-47ac-9339-801b5fde96bd" />
+
 
 <img width="1470" height="956" alt="Captura de pantalla 2026-05-19 a las 3 44 13 p  m" src="https://github.com/user-attachments/assets/04d9b0c6-44cf-4cee-8b5c-daba4fe38408" />
 
